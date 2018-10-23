@@ -1,4 +1,6 @@
+org/lff/config/ApplicationConfig.class
+org/lff/Application.class
 org/lff/BootActionServlet.class
-org/lff/SampleWebJspApplication.class
+org/lff/controller/HelloController.class
 org/lff/action/HelloAction.class
 org/lff/controller/MvcConfiguration.class

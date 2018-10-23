@@ -1,4 +1,6 @@
 /Users/jairo.silva/code/tw/equifax/poc-struts-spring/src/main/java/org/lff/action/HelloAction.java
 /Users/jairo.silva/code/tw/equifax/poc-struts-spring/src/main/java/org/lff/controller/MvcConfiguration.java
 /Users/jairo.silva/code/tw/equifax/poc-struts-spring/src/main/java/org/lff/BootActionServlet.java
-/Users/jairo.silva/code/tw/equifax/poc-struts-spring/src/main/java/org/lff/SampleWebJspApplication.java
+/Users/jairo.silva/code/tw/equifax/poc-struts-spring/src/main/java/org/lff/Application.java
+/Users/jairo.silva/code/tw/equifax/poc-struts-spring/src/main/java/org/lff/controller/HelloController.java
+/Users/jairo.silva/code/tw/equifax/poc-struts-spring/src/main/java/org/lff/config/ApplicationConfig.java

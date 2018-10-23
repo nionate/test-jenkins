@@ -7,7 +7,7 @@
 <struts-config>
 
     <action-mappings>
-        <action path="/struts" name="HelloAction" type="org.lff.action.HelloAction">
+        <action path="/struts" name="HelloAction" type="com.tw.ss.action.HelloAction">
             <forward name="success" path="/WEB-INF/jsp/helloStruts.jsp"/>
         </action>
     </action-mappings>
