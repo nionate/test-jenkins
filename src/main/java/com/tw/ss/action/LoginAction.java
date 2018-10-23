@@ -10,13 +10,13 @@ import org.slf4j.LoggerFactory;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-public class HelloAction extends Action {
+public class LoginAction extends Action {
 
-    private Logger logger = LoggerFactory.getLogger(HelloAction.class);
+    private Logger logger = LoggerFactory.getLogger(LoginAction.class);
 
     @Override
     public ActionForward execute(ActionMapping mapping, ActionForm form, HttpServletRequest request, HttpServletResponse response) throws Exception {
-        logger.info("HelloAction.execute called");
+        logger.info("LoginAction.execute called");
         return mapping.findForward("success");
     }
 }
