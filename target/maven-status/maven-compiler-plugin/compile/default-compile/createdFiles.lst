@@ -1,8 +1,4 @@
-org/lff/SampleWebJspApplication.class
-org/lff/form/TestForm.class
-org/lff/servlet/AsyncServlet.class
-org/lff/CookieFilter.class
 org/lff/BootActionServlet.class
-org/lff/action/TestAction.class
-org/lff/action/TestAction1.class
+org/lff/SampleWebJspApplication.class
+org/lff/action/HelloAction.class
 org/lff/controller/MvcConfiguration.class

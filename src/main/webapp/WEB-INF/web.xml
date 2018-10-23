@@ -4,4 +4,20 @@
 
 <web-app>
     <display-name>Example Web Application for Springboot - Struts</display-name>
+    
+    <taglib>
+        <taglib-uri>/struts-bean.tld</taglib-uri>
+        <taglib-location>/WEB-INF/tld/struts-bean-1.2.8.tld</taglib-location>
+    </taglib>
+
+    <taglib>
+        <taglib-uri>/struts-html.tld</taglib-uri>
+        <taglib-location>/WEB-INF/tld/struts-html-1.2.8.tld</taglib-location>
+    </taglib>
+
+    <taglib>
+        <taglib-uri>/struts-logic.tld</taglib-uri>
+        <taglib-location>/WEB-INF/tld/struts-logic-1.2.8.tld</taglib-location>
+    </taglib>
+
 </web-app>
